@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Morales</h1>
+<h1 align="center">Hi, I'm Daniel Morales</h1>
 <h3 align="center">I'm a Software Developer beginning, and I want to learn a lot to my personal and job growth.</h3>
 
 - 💬 Ask me about **HTML, CSS, Javascript, C# and PHP**
