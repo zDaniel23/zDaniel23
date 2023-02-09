@@ -6,6 +6,7 @@
 - 📫 How to reach me: **josedamm@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
+- Email: **josedamm@outlook.com**
 <p align="left">
 </p>
 
