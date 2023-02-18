@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel Morales</h1>
-<h3 align="center">I'm a Software Developer beginner, and I want to learn a lot for my personal and job growth.</h3>
+<h3 align="center">I'm a Software Developer, and I want to learn a lot for my personal and job growth.</h3>
 
 - 💬 Ask me about **HTML, CSS, Javascript, C# and PHP**
 
