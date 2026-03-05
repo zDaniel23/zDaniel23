@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Morales</h1>
 <h3 align="center">I'm a Software Developer, and I want to learn a lot for my personal and job growth.</h3>
 
-- 💬 Ask me about **HTML, CSS, Javascript, C# and PHP**
+- 💬 Ask me about **HTML, CSS, Javascript, C#, C++, Python and PHP**
 
 - 📫 How to reach me: **josedamm@outlook.com**
 
